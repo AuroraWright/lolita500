@@ -1,7 +1,7 @@
 # LOLITA500
 ## (LOLIcon Offended Little Idiots - TOTAL ACCELERATION to 500)
 
-by teakhanirons, dots-tb, marburg, CelesteBlue, SilicaAndPina and others.
+by teakhanirons, dots-tb, marburg, CelesteBlue, SilicaAndPina and CBPS allies.
 
 [CBPS DISCORD SERVER](https://discord.gg/2nDCbxJ)
 
