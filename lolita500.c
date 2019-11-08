@@ -9,7 +9,7 @@
 #include <vitasdkkern.h>
 #include <psp2/types.h>
 
-#define HOOKS_NUM 7
+#define HOOKS_NUM 5
 static SceUID g_hooks[HOOKS_NUM];
 static tai_hook_ref_t ref[HOOKS_NUM];
 
