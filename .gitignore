@@ -10,5 +10,6 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 /lolita500
+/lolita444
 *.skprx
 *.velf

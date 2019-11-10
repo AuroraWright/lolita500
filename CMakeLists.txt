@@ -8,7 +8,7 @@ if(NOT DEFINED CMAKE_TOOLCHAIN_FILE)
   endif()
 endif()
 
-project(lolita500)
+project(lolita444)
 include("$ENV{VITASDK}/share/vita.cmake" REQUIRED)
 
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -Wl,-q -Wall -O3 -std=gnu99")
@@ -20,7 +20,7 @@ link_directories(
 )
 
 add_executable(${PROJECT_NAME}
-	lolita500.c
+	lolita444.c
 )
 
 target_link_libraries(${PROJECT_NAME}
@@ -31,6 +31,6 @@ target_link_libraries(${PROJECT_NAME}
 )
 vita_create_self(${PROJECT_NAME}.skprx ${PROJECT_NAME}
   UNSAFE
-  CONFIG ${CMAKE_SOURCE_DIR}/lolita500.yml
+  CONFIG ${CMAKE_SOURCE_DIR}/lolita444.yml
 )
 
